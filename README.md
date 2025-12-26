@@ -8,7 +8,7 @@
 <h3 align="center"> Software Dev from India</h3>
 
 <p align="left"> <a href="https://twitter.com/AshutoshA0025" target="blank"><img src="https://img.shields.io/twitter/follow/AshutoshA0025?logo=twitter&style=for-the-badge" alt="AshutoshA0025" /></a> </p>
-<li>📫 How to reach me <b>ashutoshdevcon@gmail.com</b></li> 
+<li>📫 How to reach me: <b>ashutoshdevcon@gmail.com</b></li> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular_renaissance.png" alt="angular" width="40" height="40"/> </a>
