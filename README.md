@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Ardu</h1>
 <h3 align="center"> Software Dev from India</h3>
 
-<p align="left"> <a href="https://twitter.com/AshutoshA0025" target="blank"><img src="https://img.shields.io/twitter/follow/AshutoshA0025?logo=twitter&style=for-the-badge" alt="AshutoshA008" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AshutoshA008" target="blank"><img src="https://img.shields.io/twitter/follow/AshutoshA008?logo=twitter&style=for-the-badge" alt="AshutoshA008" /></a> </p>
 <li>📫 How to reach me: <b>ashutoshdevcon@gmail.com</b></li> 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="left"> 
